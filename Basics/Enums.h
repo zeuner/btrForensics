@@ -7,6 +7,7 @@
 #define ENUMS_H
 
 #include <iostream>
+#include <cstdint>
 
 namespace btrForensics {
     //! Type of an item.
